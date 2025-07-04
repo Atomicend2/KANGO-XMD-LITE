@@ -38,7 +38,7 @@ global.ownername = process.env.OWNER_NAME || 'Atomic'
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "KANGO-XMD" 
+global.packname = process.env.STICKER_PACK_NAME || "ATOMIC" 
 
 //--------------[ COUNTRY TIMEZONE ]------------//
 
@@ -68,7 +68,7 @@ global.wm = process.env.GL_WM || "> ©Atomicend"
 
 global.mess = { 
   done: '*Done*', 
-  success: '©kango-xmd', 
+  success: '©Atomicend', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
