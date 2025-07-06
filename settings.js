@@ -34,7 +34,7 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233509977126', 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Atomic' 
+global.ownername = process.env.OWNER_NAME || 'ATOMIC' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -58,7 +58,7 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
+global.plink = process.env.PLINK || "https://youtube.com/@atomicend-r6m?si=WVUoKih2HYbpJXJV"
 
 //------------------[ WATERMARK ]--------------------//
 
