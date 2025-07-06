@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "ATOMICEND-XMD",
   "version": "2.4.1",
-  "description": "The best Whatsapp bot im Ghana",
+  "description": "Atomic is the best muhahaha",
   "main": "index.js",
   "engines": {
     "node": ">= 20.x",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Hector Manuel",
+  "author": "ATOMIC",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
