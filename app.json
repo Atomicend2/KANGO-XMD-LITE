@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "ATOMICEND-XMD",
   "version": "2.4.5",
-  "description": "KANGO, the best WhatsApp Bot",
+  "description": "ATOMICEND, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/OfficialKango/KANGO-XMD-LITE",
@@ -12,32 +12,32 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your kango session id here; must start with KANGO~",
-      "value": "",
+      "value": "KANGO~J3NFETJY#03Y1LCbAVXyZtHQlu_FhEcl-OJbyp8JxMVSOITAq3C0",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Kango-Bot",
+      "value": "ATOMICEND-XMD",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "2347056705430",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "ATOMIC",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Kango",
+      "value": "ATOMIC",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "ATOMIC",
       "required": false
     },
     "HEROKU_API_KEY": {
